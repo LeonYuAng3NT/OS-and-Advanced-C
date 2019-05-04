@@ -1,0 +1,3 @@
+Number of IP packets: 886944
+Number of TCP packets: 533074
+Number of UDP packets: 113364
